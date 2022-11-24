@@ -316,6 +316,7 @@ const ConfirmButton = styled.button`
   font-weight: 500;
   font-size: 18px;
   line-height: 23px;
+  cursor: pointer;
 `;
 
 const BlankError = styled.span`

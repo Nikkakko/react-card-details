@@ -69,6 +69,7 @@ const ContinueButton = styled.button`
   font-size: 18px;
   line-height: 23px;
   /* identical to box height */
+  cursor: pointer;
 
   /* White */
 
